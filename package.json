@@ -27,6 +27,7 @@
   "overrides": {
     "next": "$next",
     "react": "$react",
-    "react-dom": "$react-dom"
+    "react-dom": "$react-dom",
+    "typescript": "^5.7.3"
   }
 }
